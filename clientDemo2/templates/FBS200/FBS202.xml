@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <START_DATE></START_DATE>
+    <END_DATE></END_DATE>
+    <TRAN_TYPE></TRAN_TYPE>
+    <OPRE_TELLER_ID></OPRE_TELLER_ID>
+    <ORG_BUSS_SEQ_NO></ORG_BUSS_SEQ_NO>
+    <ORIGIN_SEQ_NO></ORIGIN_SEQ_NO>
+    <SYS_NO></SYS_NO>
+    <ACCT_NO></ACCT_NO>
+    <MIN_AMT></MIN_AMT>
+    <MAX_AMT></MAX_AMT>
+    <CCY></CCY>
+    <CURRENT_PGS>1</CURRENT_PGS>
+    <PAGE_SIZE>10</PAGE_SIZE>
+</Result>

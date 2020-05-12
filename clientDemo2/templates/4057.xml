@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>ZXL4057yyyyMMddTV001</ThirdVoucher>
+    <CstInnerFlowNo>ZXL4057yyyyMMddCIF01</CstInnerFlowNo>
+    <CcyCode>RMB</CcyCode>
+    <AcctNo>11002873390701</AcctNo>
+    <TranOutVirAcc>0012100050905</TranOutVirAcc>
+    <TranOutVirAccName>adsf</TranOutVirAccName>
+    <TranInVirAcc>0012100192837</TranInVirAcc>
+    <TranInVirAccName>shenfa</TranInVirAccName>
+    <TranAmount>100.00</TranAmount>
+    <UseEx>集团虚拟子账户余额调整测试</UseEx>
+</Result>

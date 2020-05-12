@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>ZXL4018yyyyMMddTV001</ThirdVoucher>
+    <totalCts>1</totalCts>
+    <totalAmt>0.01</totalAmt>
+    <BatchSummary></BatchSummary>
+    <BSysFlag>N</BSysFlag>
+    <CcyCode>RMB</CcyCode>
+    <OutAcctNo>0122100613675</OutAcctNo>
+    <OutAcctName>SHENFA014004877</OutAcctName>
+    <OutAcctAddr>平安银行深圳桂园支行</OutAcctAddr>
+    <PayType>1</PayType>
+    <HOResultSet4018R>
+        <SThirdVoucher>yyyyMMdd4018SV001</SThirdVoucher>
+        <CstInnerFlowNo>yyyyMMdd4018CIF001</CstInnerFlowNo>
+        <InAcctBankNode></InAcctBankNode>
+        <InAcctRecCode></InAcctRecCode>
+        <InAcctNo>11005805422501</InAcctNo>
+        <InAcctName>SHENFA005805422</InAcctName>
+        <InAcctBankName>平安银行深圳人民桥支行</InAcctBankName>
+        <InAcctProvinceCode>广东省</InAcctProvinceCode>
+        <InAcctCityName>深圳市</InAcctCityName>
+        <TranAmount>0.01</TranAmount>
+        <UseEx>批量转账</UseEx>
+        <UnionFlag>0</UnionFlag>
+        <AddrFlag>1</AddrFlag>
+        <MainAcctNo />
+    </HOResultSet4018R>
+</Result>

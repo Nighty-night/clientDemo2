@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <BatchNo>yyyyMMdd0001</BatchNo>
+    <AcctNo>11014891204004</AcctNo>
+    <BusiType>00000</BusiType>
+    <CorpId>E000070730</CorpId>
+    <TotalNum>2</TotalNum>
+    <TotalAmount>50</TotalAmount>
+    <FileName>req_yyyyMMdd_0001.txt</FileName>
+    <RandomPwd></RandomPwd>
+    <HashData></HashData>
+    <SignData></SignData>
+    <Remark></Remark>
+</Result>

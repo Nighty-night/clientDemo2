@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>ZXL4004yyyyMMddTV001</ThirdVoucher>
+    <CcyCode>RMB</CcyCode>
+    <OutAcctNo>19014499297008</OutAcctNo>
+    <OutAcctName>平安测试六零零零四一二七九一零六</OutAcctName>
+    <OutAcctAddr>平安银行</OutAcctAddr>
+    <InAcctNo>11014517485004</InAcctNo>
+    <InAcctName>平安测试六零零零六九二六一五九五</InAcctName>
+    <InAcctBankName>平安银行</InAcctBankName>
+    <InAcctBankNode></InAcctBankNode>
+    <TranAmount>6</TranAmount>
+    <AmountCode />
+    <UseEx>行内代理支付</UseEx>
+    <UnionFlag>1</UnionFlag>
+    <SysFlag>N</SysFlag>
+    <AddrFlag>N</AddrFlag>
+    <MainAcctNo />
+    <ProxyPayAcc>11014720423003</ProxyPayAcc>
+    <ProxyPayName>平安测试六零零零五三七六六二五五</ProxyPayName>
+    <ProxyPayBankName>平安银行</ProxyPayBankName>
+</Result>

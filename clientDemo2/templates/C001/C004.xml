@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>ZXLC004yyyyMMddTV001</ThirdVoucher>
+    <CstInnerFlowNo>ZXLC004yyyyMMddCIF01</CstInnerFlowNo>
+    <MainAccount>0122100613675</MainAccount>
+    <MainAccountName>SHENFA014004877</MainAccountName>
+    <CcyCode>RMB</CcyCode>
+    <OpFlag></OpFlag>
+    <SubAccount></SubAccount>
+    <SubAccountName></SubAccountName>
+    <TranAmount></TranAmount>
+    <FixedAccNo></FixedAccNo>
+    <FixedAccName></FixedAccName>
+    <PayRoute></PayRoute>
+    <UseEx></UseEx>
+</Result>

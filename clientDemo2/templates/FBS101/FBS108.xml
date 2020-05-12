@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <BECIF>640000108051</BECIF>
+    <FILE_SEQ_NO>CP08yyyyMMddFS01</FILE_SEQ_NO>
+    <REF_NO>RFyyyyMMddRN01</REF_NO>
+    <BUSS_TYPE>1</BUSS_TYPE>
+    <TRAN_LIST_ARRAY>
+        <BECIF>640000108051</BECIF>
+        <ORG_CODE></ORG_CODE>
+        <COMPANY_NAME></COMPANY_NAME>
+        <CUSTOMER_NAME></CUSTOMER_NAME>
+        <CCY>USD</CCY>
+        <TRAN_AMT>200</TRAN_AMT>
+        <ACCT_NO></ACCT_NO>
+        <COUNTRY_CODE></COUNTRY_CODE>
+        <PAY_TYPE></PAY_TYPE>
+        <TRAN_CODE></TRAN_CODE>
+        <ADD_MSG></ADD_MSG>
+        <FLAG></FLAG>
+        <CONTRACT_NO></CONTRACT_NO>
+        <INVOICE_NO></INVOICE_NO>
+        <APPLICANT1></APPLICANT1>
+        <APPLICANT_PHONE_NO></APPLICANT_PHONE_NO>
+        <IN_OUT_FLAG></IN_OUT_FLAG>
+    </TRAN_LIST_ARRAY>
+</Result>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <BECIF></BECIF>
+    <IR_SEQ_NO></IR_SEQ_NO>
+    <CCY></CCY>
+    <TRAN_AMT></TRAN_AMT>
+    <!-- T电汇;D票汇;M信汇 -->
+    <REMIT_TYPE>T</REMIT_TYPE>
+    <!-- U解付;Q退汇 -->
+    <APPLY_TYPE>U</APPLY_TYPE>
+    <!-- 101010一般贸易支出 -->
+    <TRAN_CODE1>101010</TRAN_CODE1>
+    <CCY1></CCY1>
+    <AMT1></AMT1>
+    <ADD_MSG1></ADD_MSG1>
+    <TRAN_CODE2></TRAN_CODE2>
+    <CCY2></CCY2>
+    <AMT2></AMT2>
+    <ADD_MSG2></ADD_MSG2>
+    <COUNTRY_CODE>USA</COUNTRY_CODE>
+    <SETTLEMENT_AND_SALES_NO></SETTLEMENT_AND_SALES_NO>
+    <IN_ACCT_NO>15000009463341</IN_ACCT_NO>
+    <IN_CCY>USD</IN_CCY>
+</Result>

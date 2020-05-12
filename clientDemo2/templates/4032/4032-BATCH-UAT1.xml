@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>ZXL4032yyyyMMddTV001</ThirdVoucher>
+    <AGREE_NO>Y000124630</AGREE_NO>
+    <BusiType>M8PAK</BusiType>
+    <SettleType>1</SettleType>
+    <SrcAccNo>0122100613675</SrcAccNo>
+    <TotalAmount>2</TotalAmount>
+    <TotalNum>2</TotalNum>
+    <Currency>RMB</Currency>
+    <HOResultSet4032R>
+        <SThirdVoucher>ZXL4032yyyyMMddSTV01</SThirdVoucher>
+        <CstInnerFlowNo>ZXL4032yyyyMMddSIF01</CstInnerFlowNo>
+        <OppAccNo>6029071088876888</OppAccNo>
+        <OppAccName>PA测试30892</OppAccName>
+        <CardAcctFlag>0</CardAcctFlag>
+        <OppBank>12</OppBank>
+        <IdType></IdType>
+        <IdNo></IdNo>
+        <Amount>1</Amount>
+        <PostScript>4032移动收款批量测试1</PostScript>
+    </HOResultSet4032R>
+    <HOResultSet4032R>
+        <SThirdVoucher>ZXL4032yyyyMMddSTV02</SThirdVoucher>
+        <CstInnerFlowNo>ZXL4032yyyyMMddSIF02</CstInnerFlowNo>
+        <OppAccNo>6216262000000017359</OppAccNo>
+        <OppAccName>PA测试41927</OppAccName>
+        <CardAcctFlag>0</CardAcctFlag>
+        <OppBank>12</OppBank>
+        <IdType></IdType>
+        <IdNo></IdNo>
+        <Amount>1</Amount>
+        <PostScript>4032移动收款批量测试2</PostScript>
+    </HOResultSet4032R>
+</Result>

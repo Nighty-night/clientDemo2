@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <BECIF></BECIF>
+    <ACCT_NO></ACCT_NO>
+    <ACCT_NO_TYPE></ACCT_NO_TYPE>
+    <CCY></CCY>
+    <START_DATE></START_DATE>
+    <END_DATE></END_DATE>
+    <MIN_AMT></MIN_AMT>
+    <MAX_AMT></MAX_AMT>
+    <BEGIN_POS>0</BEGIN_POS>
+    <QUERRY_NUM>10</QUERRY_NUM>
+</Result>

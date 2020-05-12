@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>ZXL404720150508TV001</ThirdVoucher>
+    <SrcAccNo>0122100613675</SrcAccNo>
+    <AGREE_NO>E000023535</AGREE_NO>
+    <BusiType>05101</BusiType>
+    <Currency>RMB</Currency>
+    <PayType>1</PayType>
+    <SettleType>1</SettleType>
+    <TotalNum>2</TotalNum>
+    <TotalAmount>2</TotalAmount>
+    <HOResultSet4047R>
+        <SThirdVoucher>01</SThirdVoucher>
+        <CstInnerFlowNo></CstInnerFlowNo>
+        <OppAccName>张三</OppAccName>
+        <OppAccNo>4216260000001459800</OppAccNo>
+        <OthBankFlag>Y</OthBankFlag>
+        <OppBankName>招商银行深圳分行</OppBankName>
+        <OppBranchId>308584001016</OppBranchId>
+        <OthAreaFlag />
+        <Amount>1</Amount>
+        <PostScript>跨行代发工资测试</PostScript>
+        <IdType></IdType>
+        <IdNo></IdNo>
+    </HOResultSet4047R>
+    <HOResultSet4047R>
+        <SThirdVoucher>02</SThirdVoucher>
+        <CstInnerFlowNo></CstInnerFlowNo>
+        <OppAccName>PA测试87362</OppAccName>
+        <OppAccNo>6029070000001260</OppAccNo>
+        <OthBankFlag>N</OthBankFlag>
+        <OppBankName></OppBankName>
+        <OppBranchId></OppBranchId>
+        <OthAreaFlag />
+        <Amount>1</Amount>
+        <PostScript>行内代发工资测试</PostScript>
+        <IdType></IdType>
+        <IdNo></IdNo>
+    </HOResultSet4047R>
+</Result>

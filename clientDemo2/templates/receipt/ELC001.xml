@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <AcctNo></AcctNo>
+    <StartDate>yyyyMMdd</StartDate>
+    <EndDate>yyyyMMdd</EndDate>
+    <ReceiptType>ALL</ReceiptType>
+    <SubType>ALL</SubType>
+    <StartRecord>1</StartRecord>
+    <RecordNum>10</RecordNum>
+</Result>

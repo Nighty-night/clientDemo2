@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>ZXL4047yyyyMMddTV001</ThirdVoucher>
+    <SrcAccNo>0122100613675</SrcAccNo>
+    <AGREE_NO>E000023359</AGREE_NO>
+    <BusiType>M8YQD</BusiType>
+    <PayType>0</PayType>
+    <SettleType>0</SettleType>
+    <TotalNum>1</TotalNum>
+    <TotalAmount>0.01</TotalAmount>
+    <Currency>RMB</Currency>
+    <OthBankFlag>N</OthBankFlag>
+    <HOResultSet4047R>
+        <SThirdVoucher>01</SThirdVoucher>
+        <CstInnerFlowNo>ZXL4047yyyyMMddSIF01</CstInnerFlowNo>
+        <OppAccNo>6216260000001459800</OppAccNo>
+        <OppAccName>张三</OppAccName>
+        <OppBankName></OppBankName>
+        <OppBranchId></OppBranchId>
+        <OthAreaFlag>N</OthAreaFlag>
+        <Amount>0.01</Amount>
+        <PostScript>4047单笔实时代扣测试</PostScript>
+        <Province></Province>
+        <City></City>
+        <IdNo></IdNo>
+        <IdType></IdType>
+        <RemarkFCR>个人网银备注测试</RemarkFCR>
+        <TraderCode>陆金所</TraderCode>
+    </HOResultSet4047R>
+</Result>

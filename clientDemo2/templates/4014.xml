@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>ZXL4014yyyyMMddTV001</ThirdVoucher>
+    <totalCts>1</totalCts>
+    <totalAmt>1.05</totalAmt>
+    <HOResultSet4014R>
+        <CcyCode>RMB</CcyCode>
+        <OutAcctNo>2000000472971</OutAcctNo>
+        <OutAcctName>平安测试59745</OutAcctName>
+        <InAcctBankNode>313584099990</InAcctBankNode>
+        <InAcctRecCode />
+        <InAcctNo>0012100640363</InAcctNo>
+        <InAcctName>朱凡</InAcctName>
+        <InAcctBankName>平安银行</InAcctBankName>
+        <TranAmount>0.05</TranAmount>
+        <AmountCode />
+        <UseEx>平安</UseEx>
+        <UnionFlag>1</UnionFlag>
+        <SysFlag>2</SysFlag>
+        <RealFlag>2</RealFlag>
+        <AddrFlag>2</AddrFlag>
+        <MainAcctNo />
+    </HOResultSet4014R>
+    <HOResultSet4014R>
+        <CcyCode>RMB</CcyCode>
+        <OutAcctNo>2000000472971</OutAcctNo>
+        <OutAcctName>平安测试59745</OutAcctName>
+        <InAcctBankNode>313584099990</InAcctBankNode>
+        <InAcctRecCode />
+        <InAcctNo>0012100640363</InAcctNo>
+        <InAcctName>朱凡</InAcctName>
+        <InAcctBankName>平安银行</InAcctBankName>
+        <TranAmount>1.00</TranAmount>
+        <AmountCode />
+        <UseEx>平安</UseEx>
+        <UnionFlag>1</UnionFlag>
+        <SysFlag>2</SysFlag>
+        <RealFlag>2</RealFlag>
+        <AddrFlag>2</AddrFlag>
+        <MainAcctNo />
+    </HOResultSet4014R>
+</Result>

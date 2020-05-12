@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>ZXL4047yyyyMMddTV001</ThirdVoucher>
+    <SrcAccNo>0122100613675</SrcAccNo>
+    <AGREE_NO>E000021009</AGREE_NO>
+    <BusiType>00200</BusiType>
+    <Currency>RMB</Currency>
+    <OthBankFlag>N</OthBankFlag>
+    <PayType>0</PayType>
+    <SettleType>1</SettleType>
+    <TotalNum>3</TotalNum>
+    <TotalAmount>0.03</TotalAmount>
+    <HOResultSet4047R>
+        <SThirdVoucher>01</SThirdVoucher>
+        <CstInnerFlowNo />
+        <IdNo />
+        <IdType />
+        <OppAccName>张三</OppAccName>
+        <OppAccNo>6216260000001459800</OppAccNo>
+        <OppBankName />
+        <OppBranchId />
+        <Province />
+        <City />
+        <OthAreaFlag>N</OthAreaFlag>
+        <Amount>0.01</Amount>
+        <PostScript></PostScript>
+    </HOResultSet4047R>
+    <HOResultSet4047R>
+        <SThirdVoucher>02</SThirdVoucher>
+        <CstInnerFlowNo />
+        <IdNo />
+        <IdType />
+        <OppAccName>陈灿</OppAccName>
+        <OppAccNo>6222980024713572</OppAccNo>
+        <OppBankName />
+        <OppBranchId />
+        <Province />
+        <City />
+        <OthAreaFlag>N</OthAreaFlag>
+        <Amount>0.01</Amount>
+        <PostScript></PostScript>
+    </HOResultSet4047R>
+    <HOResultSet4047R>
+        <SThirdVoucher>03</SThirdVoucher>
+        <CstInnerFlowNo />
+        <IdNo />
+        <IdType />
+        <OppAccName>陈灿</OppAccName>
+        <OppAccNo>2000023858891</OppAccNo>
+        <OppBankName />
+        <OppBranchId />
+        <Province />
+        <City />
+        <OthAreaFlag>N</OthAreaFlag>
+        <Amount>0.01</Amount>
+        <PostScript></PostScript>
+    </HOResultSet4047R>
+</Result>

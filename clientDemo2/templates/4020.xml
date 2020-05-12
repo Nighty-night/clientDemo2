@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>ZXL4020yyyyMMddTV001</ThirdVoucher>
+    <TranType>1</TranType>
+    <PayerAcctNo>11009286777301</PayerAcctNo>
+    <AcctCurrencyNo>USD</AcctCurrencyNo>
+    <PayerName>abc</PayerName>
+    <RemitterCurrency>USD</RemitterCurrency>
+    <Amount>10</Amount>
+    <RemitteeAcctNo>11005749366306</RemitteeAcctNo>
+    <RemitteeName>SHENFA005749366</RemitteeName>
+    <RemitteeAddr></RemitteeAddr>
+    <SwiftNo></SwiftNo>
+    <BankNo></BankNo>
+    <RemitteeBankName>SDB</RemitteeBankName>
+    <RemitteeBankAddr></RemitteeBankAddr>
+    <RemitteeBankUnitNo>2</RemitteeBankUnitNo>
+    <Intermediary></Intermediary>
+    <ContractNo>2</ContractNo>
+    <InvoiceNo>test</InvoiceNo>
+    <feeType>1</feeType>
+    <UrgentMark></UrgentMark>
+    <Remark>123glt</Remark>
+    <Contactman></Contactman>
+    <phone></phone>
+    <Phone></Phone>
+    <AcctBalance></AcctBalance>
+</Result>

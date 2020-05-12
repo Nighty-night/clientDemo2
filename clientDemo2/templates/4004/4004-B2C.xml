@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>ZXL4004yyyyMMddTV001</ThirdVoucher>
+    <CcyCode>RMB</CcyCode>
+    <OutAcctNo>0122100613675</OutAcctNo>
+    <OutAcctName>平安测试顺五金电器有限公司</OutAcctName>
+    <OutAcctAddr>平安银行深圳桂园支行</OutAcctAddr>
+    <OutAcctAddr />
+    <InAcctNo>4129638030087477</InAcctNo>
+    <InAcctName>PA测试45591</InAcctName>
+    <InAcctBankName>平安银行</InAcctBankName>
+    <InAcctBankNode></InAcctBankNode>
+    <TranAmount>2</TranAmount>
+    <AmountCode />
+    <UseEx>行内B2C转账测试</UseEx>
+    <UnionFlag>1</UnionFlag>
+    <SysFlag>N</SysFlag>
+    <AddrFlag>N</AddrFlag>
+    <MainAcctNo />
+</Result>

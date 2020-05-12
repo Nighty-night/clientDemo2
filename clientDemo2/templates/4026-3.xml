@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>ZXL4026yyyyMMddTV001</ThirdVoucher>
+    <CstInnerFlowNo>ZXL4026yyyyMMddCIF01</CstInnerFlowNo>
+    <CcyCode>RMB</CcyCode>
+    <ZDType>3</ZDType>
+    <OutAcctNo>0012400011274</OutAcctNo>
+    <OutAcctName>SHENFA010035618</OutAcctName>
+    <FundType>1</FundType>
+    <TranAmount>300.00</TranAmount>
+    <Category>B001</Category>
+    <BrokerSeat>005100</BrokerSeat>
+    <UseEx>深圳登记公司-网上业务-测试</UseEx>
+</Result>

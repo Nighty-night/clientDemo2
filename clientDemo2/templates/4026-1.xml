@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>ZXL4026yyyyMMddTV001</ThirdVoucher>
+    <CstInnerFlowNo>ZXL4026yyyyMMddCIF01
+    </CstInnerFlowNo>
+    <CcyCode>RMB</CcyCode>
+    <ZDType>1</ZDType>
+    <OutAcctNo>0012500007882</OutAcctNo>
+    <OutAcctName>SHENFA010028792</OutAcctName>
+    <FundType>1</FundType>
+    <TranAmount>100.00</TranAmount>
+    <ReserveAccount>040000000000101101</ReserveAccount>
+    <UseEx>上海登记公司-资金清算业务-测试</UseEx>
+</Result>

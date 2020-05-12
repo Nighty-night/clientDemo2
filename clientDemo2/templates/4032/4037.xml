@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>ZXL4037yyyyMMddTV001</ThirdVoucher>
+    <AGREE_NO>Y000128002</AGREE_NO>
+    <BusiType>M8PAK</BusiType>
+    <SettleType>1</SettleType>
+    <SrcAccNo>11014748658003</SrcAccNo>
+    <Currency>RMB</Currency>
+    <TotalNum>2</TotalNum>
+    <TotalAmount>3</TotalAmount>
+    <BatchRemark>退款批次备注</BatchRemark>
+    <HOResultSet4037R>
+        <SThirdVoucher>ZXL4037yyyyMMddSTV01</SThirdVoucher>
+        <CstInnerFlowNo>ZXL4037yyyyMMddSIF01</CstInnerFlowNo>
+        <OppAccNo>6029071088876888</OppAccNo>
+        <OppAccName>PA测试30892</OppAccName>
+        <Amount>1</Amount>
+        <OppBank>12</OppBank>
+        <OppBankName>平安银行</OppBankName>
+        <CardAcctFlag>0</CardAcctFlag>
+        <IdType></IdType>
+        <IdNo></IdNo>
+        <Mobile></Mobile>
+        <PostScript>4037退款测试1</PostScript>
+        <SrcFlowNo>ZXL4032yyyyMMddSIF01</SrcFlowNo>
+    </HOResultSet4037R>
+    <HOResultSet4037R>
+        <SThirdVoucher>ZXL4037yyyyMMddSTV02</SThirdVoucher>
+        <CstInnerFlowNo>ZXL4037yyyyMMddSIF02</CstInnerFlowNo>
+        <OppAccNo>6216262000000017359</OppAccNo>
+        <OppAccName>PA测试41927</OppAccName>
+        <OppBank>12</OppBank>
+        <OppBankName>平安银行</OppBankName>
+        <Amount>2</Amount>
+        <CardAcctFlag>0</CardAcctFlag>
+        <IdType></IdType>
+        <IdNo></IdNo>
+        <Mobile></Mobile>
+        <PostScript>4037退款测试2</PostScript>
+        <SrcFlowNo>ZXL4032yyyyMMddSIF02</SrcFlowNo>
+    </HOResultSet4037R>
+</Result>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>ZXL4009yyyyMMddTV001</ThirdVoucher>
+    <CstInnerFlowNo>ZXL4009yyyyMMddCIF01
+    </CstInnerFlowNo>
+    <CcyCode>RMB</CcyCode>
+    <OpFlag>0</OpFlag>
+    <AcctNo>11014169274000</AcctNo>
+    <StockNo>102472</StockNo>
+    <PwdEncryType>0</PwdEncryType>
+    <StockAccPwd>111111</StockAccPwd>
+    <TranAmount>100.00</TranAmount>
+    <UseEx>银证转账测试</UseEx>
+</Result>

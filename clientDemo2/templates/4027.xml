@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>ZXL4027yyyyMMddTV001</ThirdVoucher>
+    <totalCts>3</totalCts>
+    <totalAmt>6</totalAmt>
+    <BatchSummary></BatchSummary>
+    <BSysFlag>N</BSysFlag>
+    <CcyCode>RMB</CcyCode>
+    <OutAcctNo>0122100613675</OutAcctNo>
+    <OutAcctName>SHENFA014004877</OutAcctName>
+    <OutAcctAddr>平安银行深圳桂园支行</OutAcctAddr>
+    <HOResultSet4018R>
+        <SThirdVoucher>yyyyMMdd4027STV001</SThirdVoucher>
+        <CstInnerFlowNo>yyyyMMdd4027CIF001</CstInnerFlowNo>
+        <InAcctBankNode>102100099996</InAcctBankNode>
+        <InAcctRecCode></InAcctRecCode>
+        <InAcctNo>6222980028095612</InAcctNo>
+        <InAcctName>财富八四</InAcctName>
+        <InAcctBankName>中国工商深圳分行</InAcctBankName>
+        <InAcctProvinceCode></InAcctProvinceCode>
+        <InAcctCityName>深圳市</InAcctCityName>
+        <TranAmount>1</TranAmount>
+        <UseEx>混合批量跨行普通交易</UseEx>
+        <UnionFlag>0</UnionFlag>
+        <AddrFlag>1</AddrFlag>
+        <SysFlag></SysFlag>
+        <MainAcctNo />
+    </HOResultSet4018R>
+    <HOResultSet4018R>
+        <SThirdVoucher>yyyyMMdd4027STV002</SThirdVoucher>
+        <CstInnerFlowNo>yyyyMMdd4027CIF002</CstInnerFlowNo>
+        <InAcctBankNode>402584009991</InAcctBankNode>
+        <InAcctRecCode></InAcctRecCode>
+        <InAcctNo>810203040504</InAcctNo>
+        <InAcctName>田辉</InAcctName>
+        <InAcctBankName>深圳农村商业银行股份有限公司</InAcctBankName>
+        <InAcctProvinceCode></InAcctProvinceCode>
+        <InAcctCityName>深圳市</InAcctCityName>
+        <TranAmount>2</TranAmount>
+        <UseEx>混合批量跨行加急交易</UseEx>
+        <UnionFlag>0</UnionFlag>
+        <AddrFlag>1</AddrFlag>
+        <SysFlag>Y</SysFlag>
+        <MainAcctNo />
+    </HOResultSet4018R>
+    <HOResultSet4018R>
+        <SThirdVoucher>yyyyMMdd4027STV003</SThirdVoucher>
+        <CstInnerFlowNo>yyyyMMdd4027CIF003</CstInnerFlowNo>
+        <InAcctBankNode>308584000013</InAcctBankNode>
+        <InAcctRecCode></InAcctRecCode>
+        <InAcctNo>9999123456</InAcctNo>
+        <InAcctName>澳洲钢铁</InAcctName>
+        <InAcctBankName>招商银行福州分行东水支行</InAcctBankName>
+        <InAcctProvinceCode></InAcctProvinceCode>
+        <InAcctCityName>深圳市</InAcctCityName>
+        <TranAmount>3</TranAmount>
+        <UseEx>混合批量跨行特急交易</UseEx>
+        <UnionFlag>0</UnionFlag>
+        <AddrFlag>1</AddrFlag>
+        <SysFlag>S</SysFlag>
+        <MainAcctNo />
+    </HOResultSet4018R>
+</Result>

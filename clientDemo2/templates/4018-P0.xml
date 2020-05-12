@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>ZXL4018yyyyMMddTV001</ThirdVoucher>
+    <totalCts>3</totalCts>
+    <totalAmt>6</totalAmt>
+    <BatchSummary></BatchSummary>
+    <BSysFlag>N</BSysFlag>
+    <CcyCode>RMB</CcyCode>
+    <OutAcctNo>0122100613675</OutAcctNo>
+    <OutAcctName>SHENFA014004877</OutAcctName>
+    <OutAcctAddr>平安银行深圳桂园支行</OutAcctAddr>
+    <PayType>0</PayType>
+    <HOResultSet4018R>
+        <SThirdVoucher>yyyyMMdd4018STV001</SThirdVoucher>
+        <CstInnerFlowNo>yyyyMMdd4018CIF001</CstInnerFlowNo>
+        <InAcctBankNode />
+        <InAcctRecCode />
+        <InAcctNo>6270660000002288</InAcctNo>
+        <InAcctName>PA测试16874</InAcctName>
+        <InAcctBankName>平安银行</InAcctBankName>
+        <InAcctProvinceCode>广东省</InAcctProvinceCode>
+        <InAcctCityName>深圳市</InAcctCityName>
+        <TranAmount>1</TranAmount>
+        <UseEx>逐笔扣1</UseEx>
+        <UnionFlag>1</UnionFlag>
+        <AddrFlag>1</AddrFlag>
+        <MainAcctNo />
+    </HOResultSet4018R>
+    <HOResultSet4018R>
+        <SThirdVoucher>yyyyMMdd4018STV002</SThirdVoucher>
+        <CstInnerFlowNo>yyyyMMdd4018CIF002</CstInnerFlowNo>
+        <InAcctBankNode />
+        <InAcctRecCode />
+        <InAcctNo>4129638030087477</InAcctNo>
+        <InAcctName>PA测试45591</InAcctName>
+        <InAcctBankName>平安银行</InAcctBankName>
+        <InAcctProvinceCode>广东省</InAcctProvinceCode>
+        <InAcctCityName>深圳市</InAcctCityName>
+        <TranAmount>2</TranAmount>
+        <UseEx>逐笔扣2</UseEx>
+        <UnionFlag>1</UnionFlag>
+        <AddrFlag>1</AddrFlag>
+        <MainAcctNo />
+    </HOResultSet4018R>
+    <HOResultSet4018R>
+        <SThirdVoucher>yyyyMMdd4018STV003</SThirdVoucher>
+        <CstInnerFlowNo>yyyyMMdd4018CIF003</CstInnerFlowNo>
+        <InAcctBankNode />
+        <InAcctRecCode />
+        <InAcctNo>6029070000001260</InAcctNo>
+        <InAcctName>PA测试87362</InAcctName>
+        <InAcctBankName>平安银行</InAcctBankName>
+        <InAcctProvinceCode>广东省</InAcctProvinceCode>
+        <InAcctCityName>深圳市</InAcctCityName>
+        <TranAmount>3</TranAmount>
+        <UseEx>逐笔扣3</UseEx>
+        <UnionFlag>1</UnionFlag>
+        <AddrFlag>1</AddrFlag>
+        <MainAcctNo />
+    </HOResultSet4018R>
+</Result>

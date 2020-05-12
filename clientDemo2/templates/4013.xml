@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <AcctNo>0122100613675</AcctNo>
+    <CcyCode>RMB</CcyCode>
+    <BeginDate>yyyyMMdd</BeginDate>
+    <EndDate>yyyyMMdd</EndDate>
+    <PageNo>1</PageNo>
+    <PageSize>30</PageSize>
+    <OrderMode>002</OrderMode>
+</Result>

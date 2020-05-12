@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>404701yyyyMMddTV001</ThirdVoucher>
+    <SrcAccNo>0472100000459</SrcAccNo>
+    <AGREE_NO>E000071338</AGREE_NO>
+    <BusiType>999</BusiType>
+    <PayType>1</PayType>
+    <TotalNum>1</TotalNum>
+    <TotalAmount>0.01</TotalAmount>
+    <Currency>RMB</Currency>
+    <FileName>dsf_yyyyMMdd_0001.txt</FileName>
+    <RandomPwd></RandomPwd>
+    <HashData></HashData>
+    <SignData></SignData>
+    <Remark></Remark>
+</Result>

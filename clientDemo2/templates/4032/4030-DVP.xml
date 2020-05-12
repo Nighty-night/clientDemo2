@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <SrcAccNo>11005805422501</SrcAccNo>
+    <SrcAccName>SHENFA005805422</SrcAccName>
+    <AGREE_NO>E000015074</AGREE_NO>
+    <BusiType>M8PAK</BusiType>
+    <TotalNum>2</TotalNum>
+    <TranFlag>1</TranFlag>
+    <HOResultSet4030R>
+        <OppAccNo>6230582000198615786</OppAccNo>
+        <OppAccName>张山</OppAccName>
+        <OppBank>12</OppBank>
+        <Mobile>18812345566</Mobile>
+        <CardAcctFlag>0</CardAcctFlag>
+        <IdType>1</IdType>
+        <IdNo>522725198401016814</IdNo>
+    </HOResultSet4030R>
+    <HOResultSet4030R>
+        <OppAccNo>6230582000198615794</OppAccNo>
+        <OppAccName>李四</OppAccName>
+        <OppBank>12</OppBank>
+        <Mobile>18812345577</Mobile>
+        <CardAcctFlag>0</CardAcctFlag>
+        <IdType>1</IdType>
+        <IdNo>522725198608016819</IdNo>
+    </HOResultSet4030R>
+</Result>

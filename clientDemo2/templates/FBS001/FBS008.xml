@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <BECIF>640000113134</BECIF>
+    <SEQ_NO>FBS8yyyyMMddS001</SEQ_NO>
+    <NUM>1</NUM>
+    <SALE_CCY>USD</SALE_CCY>
+    <BUY_CCY>RMB</BUY_CCY>
+    <BUY_SELL_FLAG>B</BUY_SELL_FLAG>
+    <TOTAL_AMT>20</TOTAL_AMT>
+    <SPOT_FLAG>0</SPOT_FLAG>
+    <HOResultSetFBS008R>
+        <TRAN_SEQ_NO>yyyyMMddTSN001</TRAN_SEQ_NO>
+        <SEQ_NO>FBS8yyyyMMddS001</SEQ_NO>
+        <TRAN_AMT>20.00</TRAN_AMT>
+        <CLIENT_NO>640000113134</CLIENT_NO>
+        <TYPE>C</TYPE>
+        <TRAN_CODE>O</TRAN_CODE>
+        <PAYEE_GLOBAL_ID></PAYEE_GLOBAL_ID>
+        <PAYEE_CLIENT_NAME></PAYEE_CLIENT_NAME>
+        <TRAN_TYPE>01</TRAN_TYPE>
+        <COUNTRY_CODE></COUNTRY_CODE>
+    </HOResultSetFBS008R>
+</Result>
